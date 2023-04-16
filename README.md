@@ -6,18 +6,18 @@
 
 ### 목차
 ***
-* [Insight](#insight)
+* [💧 Insight](#insight)
   * [Why](#why)
   * [Insight](#insight)
-* [How](#how)
+* [💧 How](#how)
   * [Data & Targeting](#data--targeting)
   * [Object Detection](#object-detection)
   * [Segmentation](#segmentation)
   * [Prediction](#prediction)
-* [POC](#poc)
-* [Benefit](#benefit)
+* [💧 POC](#poc)
+* [💧 Benefit](#benefit)
 
-### Insight
+### 💧 Insight
 
 #### Why
 ***
@@ -34,7 +34,7 @@ __거의 매해 반복되는 이러한 피해를 줄이기 위해 도시침수 �
 마지막 **prediction**을 통해 침수피해를 미연에 방지하여 도시침수 피해를 축소할 수 있는 조기 감지 서비스를 구축할 수 있도록 하였습니다.<br></br>
 <img width="969" alt="스크린샷 2023-04-16 오후 5 44 19" src="https://user-images.githubusercontent.com/106679267/232287388-da391206-e27c-4a2a-a16a-f956911a35b4.png"><br></br>
 
-### How
+### 💧 How
 
 #### ▪️ Data & Targeting
 ***
