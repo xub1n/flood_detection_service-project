@@ -4,9 +4,9 @@
 
 <img width="853" alt="스크린샷 2023-04-15 오후 7 37 10" src="https://user-images.githubusercontent.com/106679267/232209097-e826aa23-979e-41a8-80f4-f06818beae8f.png"><br></br>
 
-### 💧 목차
+### 목차
 ***
-* [💧 Insight](#insight)
+* [Insight](#insight)
   * [Why](#why)
   * [Insight](#insight)
 * [How](#how)
@@ -17,10 +17,9 @@
 * [POC](#poc)
 * [Benefit](#benefit)
 
-### Insight {#insight}
-### 💧 Insight
+### Insight
 
-#### ▪️ Why
+#### Why
 ***
 2015년부터 2020년까지의 폭우 현황을 나타낸 그래프입니다.<br>
 해가 지날수록 인명피해가 증가하고, 이에 따른 복구비용과 피해비용 또한 꾸준히 증가하는 추세입니다.<br>
@@ -28,7 +27,7 @@
 __거의 매해 반복되는 이러한 피해를 줄이기 위해 도시침수 범위를 감지할 수 있는 분석기법의 도입은 꼭 필요하다고 판단하였습니다.__<br></br>
 <img width="850" alt="스크린샷 2023-04-16 오후 4 09 06" src="https://user-images.githubusercontent.com/106679267/232279308-7b5d6813-40c9-4256-88b2-844793952323.png"><br></br>
 
-#### ▪️ Insight
+#### Insight
 ***
 먼저 **object detection**, 즉 물이 없는 상황에서 물을 감지하고 사람이 물에 빠졌을때 그 상황을 감지할 수 있으며,<br>
 **segmentation**을 통해 물이 있는 상황에서 물의 증가를 감지하고,<br>
@@ -89,20 +88,4 @@ x축을 prediction, y축을 실제 값으로 산점도를 시각화하였으며,
 * 기존의 CCTV를 활용하는 방안을 통해 관측시설의 설치 비용 절감
 * 도시침수 실시간 감지 알림을 소방서 및 경찰서 시스템과 연계하여 신속한 대응체계 확보<br></br>
 <img width="963" alt="스크린샷 2023-04-16 오후 8 48 22" src="https://user-images.githubusercontent.com/106679267/232307811-14b0293e-db8f-462e-85c5-f80039e066ec.png"><br></br>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
