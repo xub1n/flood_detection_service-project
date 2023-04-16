@@ -87,7 +87,7 @@ x축을 prediction, y축을 실제 값으로 산점도를 시각화하였으며,
 * 매년 반복되는 도시침수로 인한 인명, 재산피해 최소화
 * 기존의 CCTV를 활용하는 방안을 통해 관측시설의 설치 비용 절감
 * 도시침수 실시간 감지 알림을 소방서 및 경찰서 시스템과 연계하여 신속한 대응체계 확보<br></br>
-* <img width="963" alt="스크린샷 2023-04-16 오후 8 48 22" src="https://user-images.githubusercontent.com/106679267/232307811-14b0293e-db8f-462e-85c5-f80039e066ec.png"><br></br>
+<img width="963" alt="스크린샷 2023-04-16 오후 8 48 22" src="https://user-images.githubusercontent.com/106679267/232307811-14b0293e-db8f-462e-85c5-f80039e066ec.png"><br></br>
 
 
 
