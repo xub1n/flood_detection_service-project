@@ -9,7 +9,7 @@
 * [Insight](#insight)<br>
   * [Why](#why)<br>
   * [Insight](#insight)<br>
-* [How](#How)<br>
+* [How](#how)<br>
   * [Data & Targeting](#data--targeting)
   * [Object Detection](#object-detection)
   * [Segmentation](#segmentation)
