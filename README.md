@@ -10,12 +10,12 @@
   * [Why](#why)<br>
   * [Insight](#insight)<br>
 * [How](#How)<br>
-  * [Data & Targeting](#data-&-targeting)
+  * [Data & Targeting](#data--targeting)
   * [Object Detection](#object-detection)
   * [Segmentation](#segmentation)
   * [Prediction](#prediction)
-* [POC](#POC)<br>
-* [Benefit](#Benefit)<br></br>
+* [POC](#poc)<br>
+* [Benefit](#benefit)<br></br>
 
 ### 💧 Insight
 
