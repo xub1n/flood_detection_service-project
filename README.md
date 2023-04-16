@@ -6,17 +6,18 @@
 
 ### 💧 목차
 ***
-* [Insight](#insight)<br>
-  * [Why](#why)<br>
-  * [Insight](#insight)<br>
-* [How](#how)<br>
+* [Insight](#insight)
+  * [Why](#why)
+  * [Insight](#insight)
+* [How](#how)
   * [Data & Targeting](#data--targeting)
   * [Object Detection](#object-detection)
   * [Segmentation](#segmentation)
   * [Prediction](#prediction)
-* [POC](#poc)<br>
-* [Benefit](#benefit)<br></br>
+* [POC](#poc)
+* [Benefit](#benefit)
 
+### Insight {#insight}
 ### 💧 Insight
 
 #### ▪️ Why
