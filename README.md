@@ -6,16 +6,16 @@
 
 ### 목차
 ***
-* [💧 Insight](#insight)
+* [💧 Insight](#-insight)
   * [Why](#why)
   * [Insight](#insight)
-* [💧 How](#how)
+* [💧 How](#-how)
   * [Data & Targeting](#data--targeting)
   * [Object Detection](#object-detection)
   * [Segmentation](#segmentation)
   * [Prediction](#prediction)
-* [💧 POC](#poc)
-* [💧 Benefit](#benefit)
+* [💧 POC](#-poc)
+* [💧 Benefit](#-benefit)
 
 ### 💧 Insight
 
