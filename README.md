@@ -6,7 +6,7 @@
 
 ### 💧 목차
 ***
-* [Insight](#insight)
+* [💧 Insight](#insight)
   * [Why](#why)
   * [Insight](#insight)
 * [How](#how)
